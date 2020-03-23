@@ -5,11 +5,10 @@ Hugo Santos Eusébio
 
 `2180607`
 
-**Linguagens de programação conhecidas: **
-
--C
--Javascript
--Python
+# Linguagens de programação conhecidas:
+- C
+- Javascript
+- Python
 - ...
 
 > Metodologias de Desenvolvimento de Software 2020 
